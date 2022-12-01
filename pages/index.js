@@ -106,6 +106,7 @@ export default function Index({ config, kvMonitors, kvMonitorsLastUpdate }) {
             >
               Get Your Status Page
             </a>
+            <a rel="me" href="https://furry.engineer/@transparency" />
           </div>
         </div>
       </div>
